@@ -1,9 +1,9 @@
 class Consulssm < Formula
   desc ""
   homepage "https://github.com/bdclark/consulssm"
-  url "https://github.com/bdclark/consulssm/releases/download/0.0.1/consulssm_0.0.1_darwin_amd64.tar.gz"
-  version "0.0.1"
-  sha256 "a632150444e09d18f54b8e67d9e2dfa6cfa4509526e8f0b21a3fd6ed62abbcf0"
+  url "https://github.com/bdclark/consulssm/releases/download/0.0.2/consulssm_0.0.2_darwin_amd64.tar.gz"
+  version "0.0.2"
+  sha256 "924249b1c2b54c76d03f2ceb7554c1a13f6b488ff03f7f9d267b027a0ef3f013"
 
   def install
     bin.install "consulssm"
